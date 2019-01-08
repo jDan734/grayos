@@ -1,0 +1,22 @@
+{
+  "name": "grayos",
+  "version": "0.0.1",
+  "description": "The OS making in the JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "app": "electron ."
+  },
+  "keywords": [
+    "OS",
+    "JavaScript",
+    "NodeJS",
+    "Electron"
+  ],
+  "author": "jDan734",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1"
+  }
+}
